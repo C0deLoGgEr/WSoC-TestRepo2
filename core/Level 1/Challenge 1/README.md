@@ -6,8 +6,8 @@
       To do that, just add an x between the square brackets.
       Example : [ ] becomes [x] -->
 
-- [ ] Read the contents from the "data.pkl" file present within the folder. 
+- [X] Read the contents from the "data.pkl" file present within the folder. 
 
-- [ ] Display it's contents serially.
+- [X] Display it's contents serially.
 
-- [ ] Take a screenshot of the output and save it with the name "output".
+- [X] Take a screenshot of the output and save it with the name "output".
